@@ -1,0 +1,23 @@
+Manifest-Version: 1.0
+Pega-Codeset-Patch: 
+Operator: umanshi121@gmail.com
+Pega-Codeset-Name: Customer
+ArtifactVersion: 01.01.01
+Pega-Archive-Type: ApplicationBundle
+ArtifactType: product
+Pega-Codeset-Version: 06-01-01
+ArtifactName: VehicleServicePackage
+Name: VehicleServicePackage
+Type: Product
+Synchronizable: false
+Product-Creation-Date: 2026-Aug-30 04:00:00
+Version: 01.01.01
+Engine-Version: 08-26-01
+Label: Vehicle Service Request Package 01.01.01
+Export-Date: 2026-Aug-30 23:09:30
+Instance-Count: 1579
+Archive-Type: PegaArchive
+PRPC-Engine: 26.1.0 PRPC-26.1.0-103357 ()
+
+Name: FileMetadata
+
